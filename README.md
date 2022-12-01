@@ -1,4 +1,4 @@
-## Simple Page Detail Products 
+## Simple Product Page Details
 
 #### screenshot responsives 👇
 
